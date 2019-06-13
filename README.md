@@ -1,4 +1,4 @@
-[https://static.hfi.me/mikutap](https://static.hfi.me/mikutap)
+[https://xfx98.github.io/mikutap/](https://xfx98.github.io/mikutap/)
 
 # mikutap
 A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
@@ -33,5 +33,5 @@ http://exittunes.com/license/
 由于违规使用本repo带来的后果xfx98不承担结果  
 
 # DEMO  
-[https://static.hfi.me/mikutap](https://static.hfi.me/mikutap)
+[https://xfx98.github.io/mikutap/](https://xfx98.github.io/mikutap/)
 
