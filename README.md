@@ -1,4 +1,4 @@
-https://xfx98.github.io/mikutap/
+[https://static.hfi.me/mikutap](https://static.hfi.me/mikutap)
 
 # mikutap
 A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
@@ -30,7 +30,7 @@ daniwell@aidn.jp
 ※ エグジットチューンズ管理楽曲（「Nyan Cat」や「ねこみみスイッチ」など）の商用利用につきましては、下記お問い合わせ窓口よりご連絡ください。
 http://exittunes.com/license/
 ```
-由于违规使用本repo带来的后果HFIProgramming不承担结果  
+由于违规使用本repo带来的后果xfx98不承担结果  
 
 # DEMO  
 [https://static.hfi.me/mikutap](https://static.hfi.me/mikutap)
