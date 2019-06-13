@@ -1,3 +1,5 @@
+https://xfx98.github.io/mikutap/
+
 # mikutap
 A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
    
