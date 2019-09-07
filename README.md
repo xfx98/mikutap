@@ -1,5 +1,6 @@
 [https://xfx98.github.io/mikutap/](https://xfx98.github.io/mikutap/)
 
+## 可能由于开发人音乐使用权限到期了，音乐没的了23333
 # mikutap
 A Mainland China friendly and indenpendent version extracted from https://aidn.jp/mikutap  
    
